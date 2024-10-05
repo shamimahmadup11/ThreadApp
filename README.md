@@ -1,4 +1,4 @@
-# 12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality 
+
 hosted link https://threadapp-s9t9.onrender.com/
 
 Feature List:
